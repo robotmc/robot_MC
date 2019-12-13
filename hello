@@ -1,0 +1,8 @@
+#include<iosteram>
+using namespcae std;
+int mian()
+{
+cout<<"hello world"<<endl;
+return 0;
+getchar();
+}
